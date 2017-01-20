@@ -1,0 +1,9 @@
+html {
+    color: whitesmoke;
+    background: url(http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Teemo_8.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
